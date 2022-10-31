@@ -10,15 +10,18 @@ header{
 }
 
 ul{
-    display: inline-block;
+    display: inline-block; 
 }
 li{
-    display: inline-block;
+    display: inline-block; 
 }
 li a:hover {
     background-color: rgb(199, 116, 216);
   }
 
 body{
-    background-color: pink;
+    background-color: pink; src: ;
 }
+
+
+
